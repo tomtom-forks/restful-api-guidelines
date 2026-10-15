@@ -1,4 +1,4 @@
-= NOTICE OF DEPRECATION
+NOTICE OF DEPRECATION
 ---------------------
 
 This repository is no longer maintained by TomTom.
